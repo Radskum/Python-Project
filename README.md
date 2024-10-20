@@ -1,0 +1,1 @@
+This project generates a visualization of countries that have produced TV shows, focusing on countries with more than 50 entries. The map uses GeoPandas for geographical data and Matplotlib for plotting the results, with annotated labels and circles proportional to the number of shows produced per country.
